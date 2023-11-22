@@ -1,0 +1,5 @@
+Tasks para joreto POO
+
+reserva - ao reservar dizer quanto é o preço pela reserva
+        - mudar atributo de propriedae para não disponivel
+	- adciciona o codigo do cliente e da propriedade
