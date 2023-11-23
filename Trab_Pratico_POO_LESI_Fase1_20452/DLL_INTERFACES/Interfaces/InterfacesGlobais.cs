@@ -11,9 +11,6 @@
         bool Disponibilidade { get; set; }
 
     }
-    public interface IPropriedades 
-    {
-
-    }
+ 
 
 }

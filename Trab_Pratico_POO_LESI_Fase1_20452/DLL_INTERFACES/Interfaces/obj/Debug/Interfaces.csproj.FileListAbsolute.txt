@@ -4,3 +4,9 @@ C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTE
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.dll
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_INTERFACES\Interfaces\obj\Debug\Interfaces.pdb

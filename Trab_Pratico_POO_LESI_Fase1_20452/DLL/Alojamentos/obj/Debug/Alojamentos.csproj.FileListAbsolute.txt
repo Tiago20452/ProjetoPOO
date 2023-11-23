@@ -13,3 +13,12 @@ C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Aloj
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.csproj.CopyComplete
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.dll
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.csproj.AssemblyReference.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.csproj.CoreCompileInputs.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\bin\Debug\Alojamentos.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\bin\Debug\Alojamentos.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\bin\Debug\Interfaces.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\bin\Debug\Interfaces.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Alojamentos\obj\Debug\Alojamentos.csproj.CopyComplete

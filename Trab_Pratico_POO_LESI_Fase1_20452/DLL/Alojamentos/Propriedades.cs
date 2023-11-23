@@ -11,7 +11,7 @@ using System;
 
 namespace Alojamentos
 {
-    public class Propriedades : IPropriedades
+    public class Propriedades 
     {
         /// <summary>
         /// Classe Propriedades(Array)

@@ -22,3 +22,16 @@ C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gest
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\obj\Debug\Gestaoturistica.pdb
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Interfaces.dll
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Interfaces.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Gestaoturistica.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Gestaoturistica.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Alojamentos.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Pessoas.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Interfaces.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Alojamentos.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Pessoas.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\bin\Debug\Interfaces.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\obj\Debug\Gestaoturistica.csproj.AssemblyReference.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\obj\Debug\Gestaoturistica.csproj.CoreCompileInputs.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\obj\Debug\Gestaoturistica.csproj.CopyComplete
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\obj\Debug\Gestaoturistica.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL\Gestaoturistica\obj\Debug\Gestaoturistica.pdb
