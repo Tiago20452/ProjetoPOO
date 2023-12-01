@@ -6,10 +6,11 @@
  * POO
  */
 
-using Alojamentos;
-using Gestaoturistica;
-using Pessoas;
 using System;
+using Dados;
+using BO;
+using RegrasNegocio;
+using Interfaces;
 
 namespace TP_20452
 
@@ -55,10 +56,6 @@ namespace TP_20452
             Check_ins.InserirCheckin(cn1);
             Check_ins.ShowCheckins(Check_ins.ListaCheckins);
             Console.ReadLine();
-
-
-
-
 
         }
     }

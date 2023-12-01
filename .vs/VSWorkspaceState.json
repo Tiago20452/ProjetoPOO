@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Trab_Pratico_POO_LESI_Fase1_20452"
+    "\\Trab_Pratico_POO_LESI_Fase1_20452",
+    "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL",
+    "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL\\Alojamentos"
   ],
-  "SelectedNode": "\\Trab_Pratico_POO_LESI_Fase1_20452",
+  "SelectedNode": "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL\\Alojamentos\\Propriedades.cs",
   "PreviewInSolutionExplorer": false
 }

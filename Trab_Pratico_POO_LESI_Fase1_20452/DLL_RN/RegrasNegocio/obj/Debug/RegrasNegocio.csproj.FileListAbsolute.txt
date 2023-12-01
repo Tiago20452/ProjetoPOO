@@ -1,0 +1,11 @@
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\bin\Debug\BO.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\bin\Debug\Dados.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\bin\Debug\BO.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\bin\Debug\Dados.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_RN\RegrasNegocio\obj\Debug\RegrasNegocio.pdb

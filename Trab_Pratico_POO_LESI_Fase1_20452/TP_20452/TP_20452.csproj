@@ -33,17 +33,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Alojamentos">
-      <HintPath>..\DLL\Alojamentos\bin\Debug\Alojamentos.dll</HintPath>
+    <Reference Include="BO">
+      <HintPath>..\DLL_BO_Dados\BO\bin\Debug\BO.dll</HintPath>
     </Reference>
-    <Reference Include="Gestaoturistica">
-      <HintPath>..\DLL\Gestaoturistica\bin\Debug\Gestaoturistica.dll</HintPath>
+    <Reference Include="Dados">
+      <HintPath>..\DLL_BO_Dados\BO\bin\Debug\Dados.dll</HintPath>
     </Reference>
-    <Reference Include="Interfaces">
-      <HintPath>..\DLL_INTERFACES\Interfaces\bin\Debug\Interfaces.dll</HintPath>
+    <Reference Include="Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL_INT\Interfaces\bin\Debug\Interfaces.dll</HintPath>
     </Reference>
-    <Reference Include="Pessoas">
-      <HintPath>..\DLL\Pessoas\bin\Debug\Pessoas.dll</HintPath>
+    <Reference Include="RegrasNegocio">
+      <HintPath>..\DLL_RN\RegrasNegocio\bin\Debug\RegrasNegocio.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
