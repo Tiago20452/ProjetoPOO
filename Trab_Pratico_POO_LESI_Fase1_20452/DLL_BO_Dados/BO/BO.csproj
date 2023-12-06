@@ -51,5 +51,8 @@
     <Compile Include="Propriedade.cs" />
     <Compile Include="Reserva.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="CD_BO.cd" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

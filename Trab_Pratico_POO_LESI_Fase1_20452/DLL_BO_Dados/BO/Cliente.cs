@@ -20,9 +20,11 @@ namespace BO
         // Atributos a dar a cada objeto
 
         private string nome;
-        private int idade;
+        DateTime datanascimento;
         private int numero_fiscal;
         private string email;
+
+        private int idade;
 
         #endregion
 
@@ -34,10 +36,10 @@ namespace BO
         /// <param name="id"></param>
         /// <param name="NIF"></param>
         /// <param name="em"></param>
-        public Cliente(string no, int id, int NIF, string em)
+        public Cliente(string no, DateTime data, int NIF, string em)
         {
             nome = no;
-            idade = id;
+            datanascimento = data;
             numero_fiscal = NIF;
             email = em;
         }
@@ -53,10 +55,10 @@ namespace BO
             set { nome = value; }
         }
 
-        public int Idade
+        public DateTime Datanascimento
         {
-            get { return idade; }
-            set { idade = value; }
+            get { return datanascimento; }
+            set { datanascimento = value; }
         }
 
         public int Numero_fiscal
@@ -72,14 +74,21 @@ namespace BO
         }
         #endregion
 
-        #region OPERADORES
+        #region OUTROS METODOS
+
+        public int CalculaIdade()
+        {
+            DateTime dataAtual = DateTime.Now;
+            int idade = dataAtual.Year - Datanascimento.Year;
+            return idade;
+        }
         #endregion
 
         #region OVERRIDES
 
         public override string ToString()
         {
-            return String.Format("Cliente: {0}; Idade: {1}; NIF: {2}; Email: {3}", nome.ToUpper(), idade.ToString(), numero_fiscal.ToString(), email);
+            return String.Format("Cliente: {0}; Data de nascimento: {1}; NIF: {2}; Email: {3}", nome.ToUpper(), datanascimento.ToString(), numero_fiscal.ToString(), email);
         }
         #endregion
     }

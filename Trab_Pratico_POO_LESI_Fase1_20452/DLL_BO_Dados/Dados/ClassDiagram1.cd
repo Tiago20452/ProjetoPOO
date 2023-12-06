@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dados.Check_ins">
+    <Position X="17.75" Y="16.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAABASAAAQEAAAAAAAAQAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Check_ins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dados.Clientes">
+    <Position X="20.75" Y="16.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAABAAAAACAAAQAAAAAAAAAAAAAIAAAQAAAEA=</HashCode>
+      <FileName>Clientes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dados.Propriedades">
+    <Position X="23.5" Y="16.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAIAAAACAAAIAAAAAAEAAAAAEAAAAAAAgAAAAEAA=</HashCode>
+      <FileName>Propriedades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dados.Reservas">
+    <Position X="26.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAACAAAAAgAAQAgAgAAAAAAAIAAAAAAAIAA=</HashCode>
+      <FileName>Reservas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

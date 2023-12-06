@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Trab_Pratico_POO_LESI_Fase1_20452",
-    "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL",
-    "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL\\Alojamentos"
+    "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL_BO_Dados",
+    "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL_BO_Dados\\BO",
+    "\\Trab_Pratico_POO_LESI_Fase1_20452\\TP_20452"
   ],
-  "SelectedNode": "\\Trab_Pratico_POO_LESI_Fase1_20452\\DLL\\Alojamentos\\Propriedades.cs",
+  "SelectedNode": "\\Trab_Pratico_POO_LESI_Fase1_20452\\TP_20452\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

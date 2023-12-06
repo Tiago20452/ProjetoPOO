@@ -12,7 +12,7 @@ using Interfaces;
 
 namespace Dados
 {
-    public class Propriedades 
+    public class Propriedades //: IPropriedades
     {
         /// <summary>
         /// Classe Propriedades(Array)
@@ -96,7 +96,7 @@ namespace Dados
 
         public static bool Verificadisponibilidade(Propriedade p)       //não está implementado
         {
-            if (p.Disponibilidade == true)
+            if (p.Estadodisp == Propriedade.EstadoDisponibilidade.Disponivel)
             {
                 return true;
             }

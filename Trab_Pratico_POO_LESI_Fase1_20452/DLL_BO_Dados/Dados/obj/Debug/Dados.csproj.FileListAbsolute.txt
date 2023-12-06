@@ -7,3 +7,5 @@ C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_BO_Dados\Dados\obj\Debug\Dados.csproj.CopyComplete
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_BO_Dados\Dados\obj\Debug\Dados.dll
 C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_BO_Dados\Dados\obj\Debug\Dados.pdb
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_BO_Dados\Dados\bin\Debug\Interfaces.dll
+C:\Users\tiafo\Desktop\LESI\A2_S1\POO\POOreps\Trab_Pratico_POO_LESI_Fase1_20452\DLL_BO_Dados\Dados\bin\Debug\Interfaces.pdb

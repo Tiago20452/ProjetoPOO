@@ -13,7 +13,7 @@ using Interfaces;
 namespace Dados
 
 {
-    public class Reservas     // Métodos idênticos à classe Propriedades...
+    public class Reservas //: IReservas    // Métodos idênticos à classe Propriedades...
     {
         #region ATRIBUTOS
 

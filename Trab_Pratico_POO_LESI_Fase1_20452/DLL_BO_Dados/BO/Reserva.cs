@@ -9,6 +9,7 @@
 using System;
 using System.CodeDom;
 using Dados;
+using BO;
 
 namespace BO
 {
@@ -25,7 +26,7 @@ namespace BO
 
         private int codreserva;                 // id da reserva
         private DateTime datainicio;            // data de entrada na propriedade
-        private int totalnoites;                // numero total de noites a frequentar
+        private double totalnoites;                // numero total de noites a frequentar
 
         private int nifCliente;                 // nif do cliente a associar à reserva
         private int codigoPropriedade;          // codigo da propriedade a associar à reserva
@@ -42,7 +43,7 @@ namespace BO
         /// <param name="data"></param>
         /// <param name="total"></param>
 
-        public Reserva(int nifC, int codigoP, int codigor, DateTime data, int total)
+        public Reserva(int nifC, int codigoP, int codigor, DateTime data, double total)
         {
             if (Clientes.ExisteCliente(nifC) && (Propriedades.ExistePropriedade(codigoP)))          // se existir o codigo do cliente
                                                                                                     // e existir o codigo da propriedade
@@ -72,7 +73,7 @@ namespace BO
             get { return datainicio; }
             set { datainicio = value; }
         }
-        public int TotalNoites
+        public double TotalNoites
         {
             get { return totalnoites; }
             set { totalnoites = value; }
@@ -88,6 +89,14 @@ namespace BO
         {
             get { return codigoPropriedade; }
             set { codigoPropriedade = value; }
+        }
+        #endregion
+
+        #region OUTROS METODOS
+
+        public double CalculaPrecoReserva(Reserva r, Propriedade p)
+        {
+            return p.Preconoite * r.TotalNoites;
         }
         #endregion
 

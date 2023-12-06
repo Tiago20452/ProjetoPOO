@@ -23,8 +23,11 @@ namespace TP_20452
             //Gestor f = new Gestor("João", 123456789);
             //Console.WriteLine(f.ToString());
 
-            Cliente c1 = new Cliente("Tiago", 23, 256001642, "tiafonso95@hotmail.com");
+            DateTime datac1 = new DateTime(2000, 12, 25);
+            Cliente c1 = new Cliente("Tiago", datac1, 256001642, "tiafonso95@hotmail.com");
             Clientes.InsereCliente(c1);
+            int idade = c1.CalculaIdade();
+            Console.WriteLine("Idade do cliente: {0} ",idade);
             //Console.WriteLine("Inserido! Total de Clientes: {0}", Clientes.TotalClientes);
             Console.WriteLine(c1.ToString());
 
@@ -32,7 +35,7 @@ namespace TP_20452
 
             Console.ReadLine();
 
-            Propriedade p1 = new Propriedade(345, "Quinta da capela", "Casa rural", "Gerês", 3, 123.99, true);
+            Propriedade p1 = new Propriedade(345, "Quinta da capela", "Casa rural", "Gerês", 3, 123.99, Propriedade.EstadoDisponibilidade.Indisponivel);
             Propriedades.InserirPropriedade(p1);
             //Console.WriteLine("Inserido! Total Propriedades {0}", Propriedades.TotalPropriedades);
             Console.WriteLine(p1.ToString());

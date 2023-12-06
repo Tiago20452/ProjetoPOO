@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BO.Check_in">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACAAAAAAAAAEAABAACAAQAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Check_in.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BO.Cliente">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAAjAAAAAkAAAAAAAAAAAAAAAAAAACAAEAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BO.Gestor">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAAAAAAgAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>Gestor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BO.Propriedade">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIARAAAAAAgAAAEIIAAAACAAAAAAAAAAIAAAAGCAEQ=</HashCode>
+      <FileName>Propriedade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BO.Reserva">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABABAAAAAAAAEAABAAABAAIAAAACAAABAAAAQAAQ=</HashCode>
+      <FileName>Reserva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

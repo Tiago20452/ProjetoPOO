@@ -13,6 +13,7 @@ namespace BO
 {
     public class Propriedade
     {
+        public enum EstadoDisponibilidade {Disponivel, Indisponivel}
         /// <summary>
         /// Classe Propriedade
         /// </summary>
@@ -24,7 +25,7 @@ namespace BO
         private string localizacao;
         private int agregado; //numero maximo de pessoas na estadia
         private double preconoite;
-        private bool disponibilidade;
+        private EstadoDisponibilidade estadoDisp;
 
         #endregion
 
@@ -39,7 +40,7 @@ namespace BO
         /// <param name="agre"></param>
         /// <param name="pn"></param>
         /// <param name="disp"></param>
-        public Propriedade(int cod, string no, string tp, string loc, int agre, double pn, bool disp)
+        public Propriedade(int cod, string no, string tp, string loc, int agre, double pn, EstadoDisponibilidade estado)
         {
             codpropriedade = cod;
             nome = no;
@@ -47,7 +48,7 @@ namespace BO
             localizacao = loc;
             agregado = agre;
             preconoite = pn;
-            disponibilidade = disp;
+            estadoDisp = estado;
         }
         #endregion
 
@@ -90,10 +91,10 @@ namespace BO
             set { preconoite = value; }
         }
 
-        public bool Disponibilidade
+        public EstadoDisponibilidade Estadodisp
         {
-            get { return disponibilidade; }
-            set { disponibilidade = value; }
+            get { return estadoDisp; }
+            set { estadoDisp = value; }
         }
         #endregion
 
@@ -103,7 +104,7 @@ namespace BO
         public override string ToString()
         {
             return String.Format("\n Código: {0}\n Nome: {1}\n Tipo: {2}\n Localização {3}\n Agregado: {4} pessoas\n Preço por noite: {5} euros\n Disponibilidade: {6}\n"
-                , codpropriedade.ToString(), nome.ToUpper(), tipo.ToUpper(), localizacao.ToUpper(), agregado.ToString(), preconoite.ToString(), disponibilidade);
+                , codpropriedade.ToString(), nome.ToUpper(), tipo.ToUpper(), localizacao.ToUpper(), agregado.ToString(), preconoite.ToString(), estadoDisp.ToString());
         }
         #endregion
     }

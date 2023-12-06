@@ -12,7 +12,7 @@ using Interfaces;
 
 namespace Dados
 {
-    public class Clientes                   // Métodos idênticos à classe Propriedades...
+    public class Clientes //: IClientes                   // Métodos idênticos à classe Propriedades...
     {
         #region ATRIBUTOS
 

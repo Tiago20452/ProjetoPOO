@@ -5,7 +5,7 @@ using Interfaces;
 
 namespace Dados
 {
-    public class Check_ins
+    public class Check_ins //: ICheck_ins
     {
         #region ATRIBUTOS
 
